@@ -1,6 +1,6 @@
 package com.six_group.tx2mt.mapstruct.generics;
 
-public class Target {
+public class Contents {
     private String data;
 
     public String getData() {
